@@ -13,7 +13,7 @@ I am working at ApiTree since March 1st 2021.
 - 🧑‍🎓 Teaching and Mentoring
 - 📜 Always educating myself (and whenever possible, others!)
 
-## 🔧 Technologies use and love
+## 🔧 Technologies use and love:
 
 - 💻 Languages: Javascript/Typescript
 - 🧰 Frameworks and libraries: React, Next.js, Express, GraphQL
@@ -24,7 +24,7 @@ I am working at ApiTree since March 1st 2021.
 - ⚙️ Rust
 - 🎥 Video editing (Want to start a youtube video series soon!)
 
-## 🌟 Other interests
+## 🌟 Other interests:
 
 - 👩‍🍳 Cooking
 - 📸 Photography

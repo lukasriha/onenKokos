@@ -39,7 +39,7 @@ I am working at ApiTree since March 1st 2021.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lukas-riha-403a91166/)
 - 📷 [Instagram](https://www.instagram.com/basovy_pinguin/)
-- 🌐 [Frontend Mentor](https://www.frontendmentor.io/profile/onenKokos)
+- 🌐 [Frontend Mentor](https://www.frontendmentor.io/profile/lukasriha)
 
 ## 📫 Get in touch:
 
